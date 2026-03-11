@@ -1,0 +1,11 @@
+{
+  "name": "magnate-clicker",
+  "main": "index.html",
+  "window": {
+    "title": "Magnate Clicker | Developer: Timyr12",
+    "width": 450,
+    "height": 800,
+    "resizable": false,
+    "position": "center"
+  }
+}
